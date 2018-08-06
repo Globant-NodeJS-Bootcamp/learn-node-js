@@ -10,3 +10,7 @@ console.log(jsonDate);
 
 console.log(new Date(jsonDate).toUTCString());
 // expected output: Tue, 19 Aug 1975 23:15:30 GMT
+
+
+const fecha = new Date();
+console.log(fecha.toUTCString());
