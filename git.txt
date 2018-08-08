@@ -1,0 +1,23 @@
+git clone // clonar un repositorio
+
+git status // ver si hay cambios
+
+git checkout <nombre de la rama> //posicionarse en una rama
+
+git branch "nombre" // crear una nueva rama
+
+git checkout -b "nombre" // se posiciona en la rama que crea
+
+git add . //agregar los archivos para el commit
+
+git commit -m "leccion 1" //crear el commit 
+
+git push //subir los cambios
+
+git pull // traer los cambios del archivo desde github 
+
+git merge <nombre de la rama> // juntar ramas
+
+git stash //cambios que hay en la rama, los guarda en una bolsa que es el stash
+
+git pop // traer los datos de la bolsa
